@@ -25,7 +25,7 @@ After the setup above is finished, you can run the app anytime without internet:
    ```bash
    npm run dev
    ```
-3. Open your web browser and go to: `http://localhost:5173`
+3. Open your web browser and go to: `http://localhost:3000`
 
 ## ❌ Troubleshooting "'-finance' is not recognized"
 If you see an error like `'-finance' is not recognized` or `MODULE_NOT_FOUND`:
